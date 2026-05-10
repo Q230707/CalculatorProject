@@ -6,6 +6,6 @@ int main() {
     cout<<&a<<endl;
     cout<<b<<endl;
     if(b==&a)cout<<"You are good!"<<endl;
-    cout << 2 + 3 << endl;
+    cout << 2 - 3 << endl;
     cout << 5 - 2;
 }
